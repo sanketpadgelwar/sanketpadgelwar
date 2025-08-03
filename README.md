@@ -15,8 +15,7 @@
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/sanketpadgelwar)
-[![Twitter](https://img.shields.io/badge/X-black?style=flat&logo=twitter)](https://twitter.com/sanketpadgelwar)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sanket.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)]([https://www.linkedin.com/in/sanketpadgelwar](https://www.linkedin.com/in/sanket-padgelwar/))
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sanketpadgelwar39@gmail.com)
 
 ![Contribution Snake](https://raw.githubusercontent.com/sanketpadgelwar/sanketpadgelwar/output/github-contribution-grid-snake.svg)
