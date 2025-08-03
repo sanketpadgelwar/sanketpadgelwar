@@ -12,28 +12,29 @@
 
 Here are some of my featured repositories:
 
-### 🔹 [Task Manager UI](https://github.com/yourusername/task-manager-ui)
+### 🔹 [Task Manager UI](https://github.com/sanketpadgelwar/task-manager-ui)
 - **Tech Stack:** TypeScript, Angular
 - **Description:** UI for managing tasks efficiently.
 
-### 🔹 [Service Desk](https://github.com/yourusername/Service-Desk)
+### 🔹 [Task Manager](https://github.com/sanketpadgelwar/Task-Manager-master)
 - **Tech Stack:** Java, Spring Boot
-- **Description:** A backend system for handling service desk tickets.
+- **Description:** A backend system for managing tasks efficiently.
 
-### 🔹 [Visual StoryCraft Backend](https://github.com/yourusername/VisualStoryCraft-BackEnd)
+### 🔹 [Easy_Basket](https://github.com/sanketpadgelwar/Easy_Basket)
 - **Tech Stack:** Java
-- **Description:** AI-powered story and image generator.
+- **Description:** QR scanner based shopping app.
+
+### 🔹 [Visual StoryCraft Backend](https://github.com/sanketpadgelwar/My-Spotify)
+- **Tech Stack:** JS
+- **Description:** Spotify clone.
 
 ---
 
 ## 📊 GitHub Stats
-![Sanket's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Sanket's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanketpadgelwar&show_icons=true&theme=radical)
 
 
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-padgelwar/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sanketpadgelwar39@gmail.com)
-
-
-![Contribution Snake](https://raw.githubusercontent.com/sanketpadgelwar/sanketpadgelwar/output/github-contribution-grid-snake.svg)
