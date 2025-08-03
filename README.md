@@ -1,8 +1,8 @@
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanketpadgelwar&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanketpadgelwar&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanketpadgelwar&layout=compact&theme=radical&exclude_repo=DVD,My-Spotify)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanketpadgelwar&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanketpadgelwar&layout=compact&theme=radical&exclude_repo=DVD,My-Spotify&count_private=true)
 
 ---
 
