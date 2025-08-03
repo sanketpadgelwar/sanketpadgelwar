@@ -8,10 +8,27 @@
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
+## 🚀 Projects
 
-- 🔗 [GameX - A Multiplayer Game](https://github.com/sanketpadgelwar/gamex)
-- 📱 [MyAndroidApp - Kotlin-based Utility App](https://github.com/sanketpadgelwar/myandroidapp)
-- 🌐 [Portfolio Website](https://github.com/sanketpadgelwar/portfolio)
+Here are some of my featured repositories:
+
+### 🔹 [Task Manager UI](https://github.com/yourusername/task-manager-ui)
+- **Tech Stack:** TypeScript, Angular
+- **Description:** UI for managing tasks efficiently.
+
+### 🔹 [Service Desk](https://github.com/yourusername/Service-Desk)
+- **Tech Stack:** Java, Spring Boot
+- **Description:** A backend system for handling service desk tickets.
+
+### 🔹 [Visual StoryCraft Backend](https://github.com/yourusername/VisualStoryCraft-BackEnd)
+- **Tech Stack:** Java
+- **Description:** AI-powered story and image generator.
+
+---
+
+## 📊 GitHub Stats
+![Sanket's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
 
 ## 🌐 Connect with me
 
