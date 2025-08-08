@@ -19,7 +19,6 @@
 
 
 ## 🚀 Projects
-
 Here are some of my featured repositories:
 
 ### 🔹 [Task Manager UI](https://github.com/sanketpadgelwar/task-manager-ui)
